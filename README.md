@@ -1,3 +1,12 @@
+> [!IMPORTANT]
+>
+> **The End for QwenLM/vllm-gptq**
+>
+> Since December 2023, vllm has supported 4-bit GPTQ, followed by 8-bit GPTQ support since March 2024. Additionally, vllm now includes Marlin and MoE support.
+>
+> This repository has fulfilled its role. We recommend transitioning to the original [vllm](https://github.com/vllm-project/vllm) for Qwen models to take advantage of the latest features and ongoing improvements.
+
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vllm-project/vllm/main/docs/source/assets/logos/vllm-logo-text-dark.png">
